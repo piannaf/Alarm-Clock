@@ -99,7 +99,6 @@ namespace Piannaf.Ports.Microsoft.Samples.WinFX.AlarmClock{
             //<Polygon Name="hourHand" Canvas.Top="214" Canvas.Left="173"	Points="0,5 3,0 4,0 8,5 8,50 0,50">
             Polygon hourHand = new Polygon();
             //http://msdn.microsoft.com/en-us/library/system.windows.shapes.polygon.points.aspx
-            //for some reason I couldn't use a foreach loop over an array of Points for this
             Point hPoint1 = new Point(0, 5);
             Point hPoint2 = new Point(3, 0);
             Point hPoint3 = new Point(4, 0);
