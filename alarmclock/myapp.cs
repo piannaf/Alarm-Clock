@@ -1,4 +1,4 @@
-﻿//http://msdn.microsoft.com/en-us/library/aa970678.aspx#Build_a_WPF_Application_Using_MSBuild
+//http://msdn.microsoft.com/en-us/library/aa970678.aspx#Building_a_WPF_Application_using_Command_Line
 //http://www.tbiro.com/Hello-WPF-Without-XAML.htm
 
 using System;
