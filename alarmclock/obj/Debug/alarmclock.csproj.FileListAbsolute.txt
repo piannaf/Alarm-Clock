@@ -1,0 +1,5 @@
+J:\Projects\C#\AlarmClock\alarmclock\obj\Debug\ResolveAssemblyReference.cache
+J:\Projects\C#\AlarmClock\alarmclock\bin\Debug\alarmclock.exe
+J:\Projects\C#\AlarmClock\alarmclock\bin\Debug\alarmclock.pdb
+J:\Projects\C#\AlarmClock\alarmclock\obj\Debug\alarmclock.exe
+J:\Projects\C#\AlarmClock\alarmclock\obj\Debug\alarmclock.pdb
